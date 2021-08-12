@@ -9,3 +9,4 @@
 >addTodo function creates a DIV element
 >the DIV element has a LIST element as it's child element
 >the LIST element is appended to the parent element DIV
+>Preview it here (https://patrickkyei.github.io/Todo-App/)
